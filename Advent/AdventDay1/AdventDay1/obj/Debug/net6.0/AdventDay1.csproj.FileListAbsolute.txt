@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\bin\Debug\net6.0\AdventDay1.exe
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\bin\Debug\net6.0\AdventDay1.deps.json
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\bin\Debug\net6.0\AdventDay1.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\bin\Debug\net6.0\AdventDay1.dll
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\bin\Debug\net6.0\AdventDay1.pdb
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.dll
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\refint\AdventDay1.dll
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.pdb
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\AdventDay1.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Advent\AdventDay1\AdventDay1\obj\Debug\net6.0\ref\AdventDay1.dll
